@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us"
+  },
+  "home": {
+    "title": "Distributor EDM Download Center",
+    "subtitle": "We will continue to provide various themes",
+    "download": "Download",
+    "video": {
+      "title": "Video Center"
+    },
+    "partner": {
+      "title": "Distributor Registeration",
+      "heading1": "Work Together,",
+      "heading2": "Explore Vast Markets",
+      "description": "Looking forward to creating brilliance and sharing rich returns with you",
+      "button": "Register"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "SpeedaAI is a company focused on smart devices",
+    "mission": {
+      "title": "Company Mission",
+      "content": "SpeedaAI is dedicated to continuously discovering, developing, and distributing the latest smart devices to enhance consumer information security and personal productivity. We believe that through continuous innovation and technological advancement, we can provide users with a safer and more efficient lifestyle."
+    },
+    "goal": {
+      "title": "Company Goals",
+      "content": "Provide the most advanced smart devices to ensure user information security. We are committed to protecting users' personal data and privacy through cutting-edge technology, preventing information leaks and cyber-attacks.\nEnhance user personal productivity through innovative technologies and products. We aim to enable users to complete tasks more efficiently in both work and life, thereby achieving a higher quality of life.\nBecome a leader in the smart device market and drive industry development. We not only focus on our own growth but also hope to promote progress and innovation in the entire smart device industry through technology sharing and collaboration."
+    },
+    "intro": {
+      "title": "Company Introduction",
+      "content": "nce consumer information security and personal productivity by offering the latest and most advanced technological products. We continuously explore and introduce cutting-edge smart devices from around the world, ensuring that users can enjoy the convenience brought by technology while effectively protecting their personal information. SpeedaAI not only emphasizes product innovation and quality but also prioritizes user experience and satisfaction, striving to become a leader in the smart device industry.\nWe understand that information security and personal productivity are two crucial aspects of modern society. As technology continues to advance, the challenges of information security become increasingly severe. SpeedaAI is committed to providing users with the safest smart devices through continuous innovation and technological upgrades, protecting users' personal data and privacy.\nAt the same time, we hope to help users complete tasks more efficiently in both work and life through the application of smart devices, achieving a higher quality of life.\nSpeedaAI not only focuses on its own development but also hopes to promote progress and innovation in the entire smart device industry through technology sharing and collaboration. We believe that through joint efforts with partners inside and outside the industry, we can provide users with better products and services, driving the sustainable development of the smart device industry."
+    }
+  }
+}
